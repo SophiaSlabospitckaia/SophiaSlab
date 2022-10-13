@@ -1,1 +1,1 @@
-# SophiaSlab
+# Sophiaslab
